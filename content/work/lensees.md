@@ -1,10 +1,10 @@
 ---
 title: Building Lensees
-date: "2019-06"
-slug: "lensees"
+date: '2019-06'
+slug: 'lensees'
 selectedWork: true
-description: "Designing and building a website to connect quality photographers in Lagos, Nigeria"
-previewImage: "/images/work/lensees/lensees_desktop.png"
+description: 'Designing '
+previewImage: '/images/work/lensees/lensees_desktop.png'
 ---
 
 > **Role**: UX Strategy, User Research, Interaction design, Engineering.
