@@ -1,16 +1,10 @@
-![Next Starter Peacock](./screenshot.png)
+
 
 # 🦚 Next Starter Peacock
 
 Peacock is a NextJS portfolio Starter for software engineers and designers. Showcase your awesome work and build personal sites you're proud of.
 
 AR
-
-## Features
-
-- Styled with EmotionJS💅🏾
-- Written in TypeScript ⚛
-- Blog, Notes and Work content types 🖊
 
 ## Getting Started
 
@@ -91,15 +85,3 @@ The best way you can contribute to peacock is by [creating issues](https://githu
 - Pull request is merged
 
 The fastest way to get an answer to your question is to reach out via [Twitter](https://twitter.com/vick_onrails). Feel free to through a tweet or DM.
-
-## Todo
-
-- [x] Test rendering and styling of standard HTML elements
-- [x] Replace personal portfolio content with demo content
-- [x] Add simpler notes page
-- [x] Image optimization (Fixed image heights to avoid layout janks)
-- [x] RSS Feed
-- [ ] Release V1
-- [ ] Add page transitions with `react-spring`
-- [ ] Add mdx support
-- [x] Code syntax highlighting
